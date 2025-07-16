@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steviehayes
 - 👀 I’m interested in Strapi, python, React, next.js
-- 🌱 I’m currently learning React with Strapi
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently developing in React and Rust
+- 💞️ I’m looking to collaborate on ...Rust
 - 📫 How to reach me ...@steviehayes
 
 <!---
